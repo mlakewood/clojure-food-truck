@@ -1,6 +1,7 @@
 # food_truck
 
-FIXME
+This is a port of my food truck demo site. The first one was written in python. This one is 
+written in Clojure. Any comments on style etc I would be happy to hear about as im very new to clojure.
 
 ## Prerequisites
 
@@ -16,4 +17,4 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 underplank
