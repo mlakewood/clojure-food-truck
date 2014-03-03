@@ -1,7 +1,11 @@
-# food_truck
+# food_truck in clojure
 
 This is a port of my food truck demo site. The first one was written in python. This one is 
 written in Clojure. Any comments on style etc I would be happy to hear about as im very new to clojure.
+
+[food trucks in python][2]
+
+[2]: https://github.com/mlakewood/food_truck
 
 ## Prerequisites
 
